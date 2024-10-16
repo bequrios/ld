@@ -1,3 +1,9 @@
+# virtual environment
+venv/
+
+# local files
+local/
+
 *.bundle.*
 lib/
 node_modules/
